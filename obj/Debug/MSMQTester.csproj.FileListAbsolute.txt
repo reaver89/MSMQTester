@@ -1,0 +1,9 @@
+c:\users\reaver\documents\visual studio 2015\Projects\MSMQTester\MSMQTester\bin\Debug\MSMQTester.exe.config
+c:\users\reaver\documents\visual studio 2015\Projects\MSMQTester\MSMQTester\bin\Debug\MSMQTester.exe
+c:\users\reaver\documents\visual studio 2015\Projects\MSMQTester\MSMQTester\bin\Debug\MSMQTester.pdb
+c:\users\reaver\documents\visual studio 2015\Projects\MSMQTester\MSMQTester\obj\Debug\MSMQTester.csprojResolveAssemblyReference.cache
+c:\users\reaver\documents\visual studio 2015\Projects\MSMQTester\MSMQTester\obj\Debug\MSMQTester.Form1.resources
+c:\users\reaver\documents\visual studio 2015\Projects\MSMQTester\MSMQTester\obj\Debug\MSMQTester.Properties.Resources.resources
+c:\users\reaver\documents\visual studio 2015\Projects\MSMQTester\MSMQTester\obj\Debug\MSMQTester.csproj.GenerateResource.Cache
+c:\users\reaver\documents\visual studio 2015\Projects\MSMQTester\MSMQTester\obj\Debug\MSMQTester.exe
+c:\users\reaver\documents\visual studio 2015\Projects\MSMQTester\MSMQTester\obj\Debug\MSMQTester.pdb
